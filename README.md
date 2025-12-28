@@ -1,8 +1,8 @@
 # NASA_new
-new repo for simultaneous work
+Repo for simultanous work
 
-Website: https://nasa-new-alpha.vercel.app - not up to date
-
-Website: https://weatherwary.earth
-
-!!!!! Downloading the file and running it locally won't work!!!!!
+This project was developed as a group project as part of a university assignment.
+My contributions included:
+- [e.g. Frontend development]
+- [API integration]
+- [UI design / logic]
