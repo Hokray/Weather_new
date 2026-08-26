@@ -33,5 +33,3 @@ Forked from a teammate's original repository so I could contribute in parallel.
   activities
 - Collaborated with teammates on the Flask API contract between the
   frontend and the weather/prediction services
-
-## Repository Structure
